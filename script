@@ -17,4 +17,4 @@ $$ |  $$ |$$ |     $$  __$$ |$$ |  $$ |$$ |  $$ |$$ |$$ |  $$ |$$ |  $$ |      $
                               \______/  \______/                \______/                                    \______/                                               
 --]]
 
-loadstring(game:HttpGet('https://pastebin.com/raw/aFBDw4LZ'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/mHKdLZSq'))()
